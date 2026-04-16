@@ -1,4 +1,1 @@
-#Git repository for SD115 practice
-
-
-Adding stuff to show a file change
+#Git repository for SD115 pract.... oops I deleted some letters
