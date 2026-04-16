@@ -1,8 +1,4 @@
 #Git repository for SD115 practice
 
 
-Adding stuff to show a file change
-
-
-
-further work done here that is not currently on main
+Changes in Max to see if we can generate a merge conflict
