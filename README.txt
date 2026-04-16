@@ -4,6 +4,7 @@
 Soren gonna married to Monster Energy Drink, im pretty sure. - Lucas
 =======
 
+<<<<<<< HEAD
 A  d ng stuff t show ai le change
   d   i       o         f       ss   sdkl
 
@@ -31,3 +32,7 @@ A  d ng stuff t show ai le change
 ⠀⠀⠀⠀⠀⠀⢀⡾⣿⣿⣿⣿⠿⣿⠿⣿⣿⠏⠐⠻⢹⣟⣭⣍⡿⡿⠿⣷⣤⠞⠓⢶⠟⣿⣷⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠈⠀⠀⠛⠛⠂⠀⠘⠀⠘⠁⠁⠀⠀⠀⠁⠀⠀⠸⠓⠋⠀⠻⠂⠀⠀⠀⠀⠀
 >>>>>>> origin/sd115soren
+=======
+Adding stuff to show a file change
+>>>>>>> SD115_Claudio
+>>>>>>> parent of 5c6bf77 (⠀⠀⠀⢠⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀)
