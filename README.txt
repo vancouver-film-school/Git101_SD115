@@ -1,9 +1,9 @@
 #Git repository for SD115 practice
 
-Adrian <3 @Cris :)
+Adrian <3<#33333333 @Cris :) siiiiiiiiii
 
 Adding stuff to show a file change
 
 
 
-Adrian es muy guapo
+Adrian es muy hermoso si si claro que si 
