@@ -1,1 +1,7 @@
 #Git repository for SD115 practice
+
+
+
+AHHHHHHH
+MAKING CONFLICTS
+ALL THE CONFLICTS
