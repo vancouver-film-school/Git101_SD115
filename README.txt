@@ -1,8 +1,6 @@
 #Git repository for SD115 practice
 
-
-A  d ng stuff t show ai le change
-  d   i       o         f       ss   sdkl
+Making a change to my branch
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣠⡴⠶⠒⠦⣄⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⡶⢶⡿⡯⣿⣿⣷⣤⣄⠒⠶⣾⣧⡀⠈⠙⣦⠤⠤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
