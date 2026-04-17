@@ -3,11 +3,16 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d4045169ecf051b46e233d199da8e5dac2b18a6c
 Adding stuff to show a file change
 
 
+<<<<<<< HEAD
 
 further work done here that is not currently on main
+<<<<<<< HEAD
 
 
 
@@ -46,3 +51,11 @@ A  d ng stuff t show ai le change
 ⠀⠀⠀⠀⠀⠀⢀⡾⣿⣿⣿⣿⠿⣿⠿⣿⣿⠏⠐⠻⢹⣟⣭⣍⡿⡿⠿⣷⣤⠞⠓⢶⠟⣿⣷⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠈⠀⠀⠛⠛⠂⠀⠘⠀⠘⠁⠁⠀⠀⠀⠁⠀⠀⠸⠓⠋⠀⠻⠂⠀⠀⠀⠀⠀
 >>>>>>> f5362b60d2a4fe8e6257ceddb6912a5acb5e999a
+=======
+=======
+Changes in Max to see if we can generate a merge conflict
+>>>>>>> 5364c00cfea00725adedbda5c9f0c140a3b42d42
+=======
+ey yo its ya boi
+>>>>>>> main
+>>>>>>> d4045169ecf051b46e233d199da8e5dac2b18a6c
