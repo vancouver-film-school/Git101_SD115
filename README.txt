@@ -7,4 +7,6 @@ CHANGING THINGS
 
 AHHHHHHHHH
 
-EVEN MORE CHANGES TODAY!
+Now ill break Jarons dishes
+
+I have already broken his spirit
