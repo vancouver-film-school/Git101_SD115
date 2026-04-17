@@ -2,7 +2,7 @@
 
 
 A  d ng stuff t show ai le change
-  d   i       o         f       ss   sdkl
+  d   i       o         f       ss   sdkl YOU UNDERSTND THIS SOREN
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣠⡴⠶⠒⠦⣄⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⡶⢶⡿⡯⣿⣿⣷⣤⣄⠒⠶⣾⣧⡀⠈⠙⣦⠤⠤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
