@@ -5,6 +5,7 @@
 Adding stuff to show a file change
 
 
+<<<<<<< HEAD
 ey yo its ya boi
 =======
 A  d ng stuff t show ai le change
@@ -34,3 +35,14 @@ A  d ng stuff t show ai le change
 ⠀⠀⠀⠀⠀⠀⢀⡾⣿⣿⣿⣿⠿⣿⠿⣿⣿⠏⠐⠻⢹⣟⣭⣍⡿⡿⠿⣷⣤⠞⠓⢶⠟⣿⣷⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠈⠀⠀⠛⠛⠂⠀⠘⠀⠘⠁⠁⠀⠀⠀⠁⠀⠀⠸⠓⠋⠀⠻⠂⠀⠀⠀⠀⠀
 >>>>>>> f5362b60d2a4fe8e6257ceddb6912a5acb5e999a
+=======
+<<<<<<< HEAD
+
+further work done here that is not currently on main
+=======
+Changes in Max to see if we can generate a merge conflict
+>>>>>>> 5364c00cfea00725adedbda5c9f0c140a3b42d42
+=======
+ey yo its ya boi
+>>>>>>> main
+>>>>>>> fb1a89c27e2ea02fc42f0364d2347c9f1613b881
